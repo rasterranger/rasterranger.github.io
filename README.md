@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Hello, World!
 
-You can use the [editor on GitHub](https://github.com/rasterranger/rasterranger.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Raster Ranger is an application that seeks to integrate raster and aerial imagery analysis into widely deployed field conservation software platforms, particularly the SMART conservation tools and Earthranger. The SMART platform is used at over 750 conservation sites in 60 countries and Earthranger is deployed in 50 locations worldwide - all of these implementation sites are potential users of Raster Ranger and we have been communicating with leaders and engineers at these organizations to identify needs and solution opportunities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Raster Ranger application is designed to programmatically receive operational field data (for example, from SMART patrol reports) and automatically query, connect, and distribute relevant information and tasks to create labeled geospatial "training" data for conservation-focused machine learning applications and related data products. The creation of this labeled data includes an integrated, human-in-the-loop review process to ensure quality and relevance.
 
-### Markdown
+The Raster Ranger application generates labeled data for a variety of relevant object detection tasks and provides updated maps and predictive information regarding poaching activity and movement ecology. These data products are generated via programmatic change detection, cost distance analysis, suitability modeling, and other methods. These data products can be used to directly inform conservation stakeholders and analysts or be integrated into additional data processing pipelines to achieve conservation protection goals.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rasterranger/rasterranger.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Raster Ranger is built using best-in-class free and open source software developed by the greater geospatial community. Raster Ranger would benefit from additional support and development. The project is currently in the prototype stage and several conservation partners are interested and ready to collaborate on implementation and evaluation in the field.
